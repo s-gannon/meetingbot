@@ -1,0 +1,3 @@
+Meeting Name;00:00;60;https://www.zoom.com/;zoom
+
+Meeting Name ; Start Time ; Length of Meeting ; Link ; Platform
